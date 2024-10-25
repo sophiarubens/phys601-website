@@ -56,7 +56,7 @@ extra_javascript:
 # For describing the navigation panel
 nav:
   - Home: index.md
-  - About Me: about/index.md
+  - About: about/index.md
   - Research: reasearch/index.md
   - Projects: projects/index.md
 
