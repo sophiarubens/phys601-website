@@ -1,21 +1,23 @@
 # Introduction
 
-Dr. Lisa Simpson is an accomplished astrophysicist whose passion for unraveling the mysteries of the cosmos has driven her academic journey. She earned her Bachelor's degree in Physics with honors from Celestial University, where her early fascination with astrophysics blossomed. Embarking on the pursuit of advanced knowledge, she continued her education at Stellar Institute, obtaining a Master's degree in Astrophysical Sciences with a focus on high-energy astrophysics.
+Sophia Rubens is a first-year direct-entry doctoral student at McGill University whose longtime interests in understanding the fundamental workings of the universe have led her to radio cosmology. She graduated magna cum laude from Dartmouth College in 2024 with an A.B. in Physics (thesis with high honors) and minor in astronomy. Currently, she works with Adrian Liu and Cynthia Chiang at the intersection of cosmology theory-computation and instrumentation-observation. She is working towards characterizing systematics in 21 cm hydrogen intensity mapping data from the Canadian Hydrogen Observatory and Radio-transient Detector (CHORD) by preparing cosmological forecasts and examining galaxy cross-correlations. 
 
-Dr. Simpson's scholarly journey reached its zenith at Galactic University, where she completed her Ph.D. in Astrophysics. Her doctoral research centered on the Crab Nebula, an iconic celestial object known for its dynamic behavior. With a keen interest in both observational and theoretical aspects of astrophysics, Dr. Simpson utilized cutting-edge technology and advanced computational models to deepen our understanding of the processes at play within the Crab Nebula.
+Sophia's journey towards studying cosmology at the [Trottier Space Institute (TSI)](https://tsi.mcgill.ca/) at [McGill University](https://www.physics.mcgill.ca/) was informed by distilling and re-articulating her research interests during her undergraduate studies. In 2020, her plan upon entering undergraduate studies was to pursue both chemistry and astronomy. Although conducting [computational chemistry research on semiconducting polymers](https://www.wzdartmouth.com/people) proved an enriching intellectual experience, Sophia realized that she was more inspired to learn about the larger scales of space than the microscales of molecules and atoms. 
 
-Throughout her academic career, Dr. Simpson has contributed to numerous publications in reputable astrophysical journals and has presented her findings at international conferences. She is recognized for her meticulous research methodologies and her commitment to advancing our understanding of the universe. As a dedicated educator, Dr. Simpson has also mentored aspiring astrophysicists, fostering the next generation's curiosity and passion for the cosmos.
+After conducting [heliospheric physics research](https://heliosphere.host.dartmouth.edu/people.htm) during 2022 and 2023, Sophia realized that she was more interested in larger spatial scales and big-picture understandings of the universe. Subsequently, Sophia became enthralled with radio astronomy while participating in a Research Experience for Undergraduates (REU) at MIT Haystack Observatory. Her project, characterizing the gravitationally lensed blazar using very-long baseline interferometry (VLBI) imaging, single-dish molecular line identification, and periodicity analysis of multiwavelength light curves. Sophia continued developing this work into an undergraduate thesis, and applied to graduate school with the idea of diving further into radio astronomy but connecting more directly with the cosmological big picture of her undergraduate work.
 
-Beyond the academic realm, Dr. Simpson is an avid stargazer and science communicator, regularly engaging with the public through lectures, workshops, and social media platforms. Her multifaceted approach to astrophysics encompasses both the pursuit of groundbreaking research and the dissemination of knowledge to a broader audience, embodying a commitment to bridging the gap between the mysteries of the universe and the curious minds seeking to explore them.
+Sophia has presented her work at various home institution poster sessions, the [243rd meeting of the American Astronomical Society](https://ui.adsabs.harvard.edu/abs/2024AAS...24310419K/abstract), and the end-of-program symposium at MIT Haystack Observatory. She also works with students, such as working as a teaching assistant both at Dartmouth College and McGill University and working as a peer tutor at Dartmouth College and Exeter High School in Exeter, New Hampshire. Sophia also enjoys conducting physics outreach as a volunteer at TSI. For more information, please consult [Sophia's LinkedIn profile](https://www.linkedin.com/in/sophia-rubens-798183200/).
 
-# Other Interests
-
-- [Cooking](./cooking.md)
-- [Cycling](./cycling.md)
-- [Olympic Fishing](./fishing.md)
-
+# Outreach
+AFTER WE COMPLETE THE OUTREACH SESSION, I WILL PASTE THE PRODUCT OF THIS ACTIVITY HERE.
 
 # CV
 
 <!-- How to embed a PDF -->
-<iframe width="100%" height="600" src="./media/SWE_Resume_Template.pdf">
+<iframe width="100%" height="600" src="./media/RubensResume.pdf">
+
+# Other Interests
+
+- [Hiking](./hiking.md)
+- [Crocheting](./crocheting.md)
+- [Cooking](./cooking.md)
